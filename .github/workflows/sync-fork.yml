@@ -29,9 +29,3 @@ jobs:
           git checkout -b v5
           git merge --no-edit upstream/v5
           git push origin
-
-          git checkout v5
-          git merge --no-edit upstream/v5
-          git push origin v5
-
-          # etc

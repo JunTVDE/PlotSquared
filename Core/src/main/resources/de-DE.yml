@@ -310,22 +310,6 @@ flag:
   flag_added: $4Flag erfolreich hinzugefügt
   not_valid_flag_suggested: '$2Ungültige Flag. Meintest du: $1%s'
 flags:
-  flag_category_string: String Flags
-  flag_category_integers: Integer Flags
-  flag_category_doubles: Decimal Flags
-  flag_category_teleport_deny: Teleport Deny Flag
-  flag_category_string_list: String List Flags
-  flag_category_weather: Weather Flags
-  flag_category_music: Music Flags
-  flag_category_block_list: Material Flags
-  flag_category_intervals: Interval Flags
-  flag_category_integer_list: Integer List Flags
-  flag_category_gamemode: Game Mode Flags
-  flag_category_enum: Generic Enum Flags
-  flag_category_decimal: Decimal Flags
-  flag_category_boolean: Boolean Flags
-  flag_category_fly: Flight Flags
-  flag_category_mixed: Mixed Value Flags
   flag_description_entity_cap: Lege einen Integer fest, um die Anzahl an Entities auf dem Plot zu begrenzen.
   flag_description_explosion: Auf `true` stellen, um Explosionen auf dem Plot zu aktivieren, oder auf `false`, zum deaktivieren.
   flag_description_music: Lege eine Schallplatten ID (Item-Name) fest, um diese auf dem Plot abzuspielen.

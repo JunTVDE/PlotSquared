@@ -54,7 +54,3 @@ Suggestions are welcome! We have a separate issue tracker for suggestions, that 
 * [PlotSquaredMG](https://www.spigotmc.org/resources/plotsquaredmg.8025/)
 * [BasicPlots](https://www.spigotmc.org/resources/basicplots.6901/)
 * [HoloPlots](https://www.spigotmc.org/resources/holoplots.4880/)
-
-# Sponsors
-Our official sponsor list can be found [here](https://intellectualsites.github.io/download/sponsors.html). <br>
-If you are interested and want to be listed here, [contact us](https://intellectualsites.github.io/download/contact.html).

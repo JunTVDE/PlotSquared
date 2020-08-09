@@ -25,7 +25,7 @@ jobs:
 
           # Neither forget the -b opt,
           # the feature/x ref is ambiguous at this stage
-          git checkout origin
+          # git checkout origin
           git checkout v5
           git merge --no-edit upstream/v5
           git push origin
